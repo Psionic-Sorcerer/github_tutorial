@@ -17,7 +17,7 @@ This is intended as a collaborative exercise, and so you will need a team of at 
 
 Any team member who does not have a GitHub account must establish one by going to [https://github.com](https://github.com)
 
-![GitHub_Signup](media/github_landing_page.jpg)
+![GitHub_Signup](media/github_signup.jpg)
 
 ## Create a GitHub Repository for Development
 
