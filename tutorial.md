@@ -11,7 +11,7 @@ A Python program using the <code>pandas</code> package is the target for develop
 
 # The Tutorial
 
-This is intended as a collaborative exercise, and so you will need a team of at least two people for this tutorial.  
+This tutorial is intended as a collaborative exercise and, so you will need at least two people.  
 
 ## Establish GitHub Accounts
 
@@ -27,7 +27,9 @@ Of the team members, identify one team member who will do the following:
 
 -  Create a repository, named <code>github_tut</code>, in which to conduct this tutorial following the steps taken in the video below.
 
-xxx embed centered youtube video xxx
+<p align="center">
+  xxx embed centered youtube video xxx
+</p>
 
 - Get these files from xxxxxx and upload them to the <code>github_tut</code> repository (repo) at <code>https://github.com/_your_github_username_/github_tut</code>.
   - github.py
