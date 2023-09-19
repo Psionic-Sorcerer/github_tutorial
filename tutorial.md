@@ -44,7 +44,10 @@ Identify one team member who will do the following:
 
 Each teammate should do the following:
 
-- Accept the invitation from repo owner, which will be sent to the email address you specified when establishing your GitHub account.
+- Accept the invitation from repo owner, which will be sent to the email address you specified when establishing your GitHub account as demonstrated in the video below.
+
+[![Create_GitHub_Repo](https://img.youtube.com/vi/W3tYHaor4Do/0.jpg)](https://www.youtube.com/watch?v=W3tYHaor4Do)
+
 - Go to owner’s repo and create new branch.  Embed your GitHub username in the branch name so that you can identify your work.
 - xxxx Clone the repository onto your computer and choose the <code>Open with GitHub Desktop</code> option by clicking on the xxxxx button as demonstrated in the video below.  If you do not have the GitHub Desktop app, then you will be prompted to download and install it.
 -  xxx embed video
