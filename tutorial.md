@@ -29,12 +29,13 @@ Identify one team member who will do the following:
 
 [![Create_GitHub_Repo](https://img.youtube.com/vi/2GUFvuEPXjo/0.jpg)](https://www.youtube.com/watch?v=2GUFvuEPXjo)
 
-- Get these files from xxxxxx and upload them to the <code>github_tut</code> repository (repo) at <code>https://github.com/_your_github_username_/github_tut</code>.
+- Get these files from the <code>code</code> folder of this repository (repo) and upload them to the <code>github_tut</code> repo that was just created at <code>https://github.com/_your_github_username_/github_tut</code>.
   - github.py
   - github_soln.py
   - DECENNIALPL2020.P1_data_with_overlays_2021-11-05T143124_mod.csv
--  Communicate the repository URL to all teammates
+-  Communicate the repository URL, <code>https://github.com/_your_github_username_/github_tut</code>, to all teammates
 -  Give write permission for the repo to teammates by going to <code></code>Settings>Collaborators</code> on the GitHub web repo page and entering the GitHub IDs of teammates.
+-  xxx
 
 ## Accept Collaboration Invitation and Clone Repo
 
