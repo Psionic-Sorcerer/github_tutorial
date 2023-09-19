@@ -25,7 +25,7 @@ Any team member who does not have a GitHub account must establish one by going t
 
 Identify one team member who will do the following:
 
--  Create a repository, named <code>github_tut</code>, in which to conduct this tutorial following the steps taken in the video below.  Please be aware that GitHub requires two-factor authentication for repository owners and so you will need to set this feature up as well.  The author uses Google Authenticator with good results.
+-  Create a repository, named <code>github_tut</code>, in which to conduct this tutorial following the steps taken in the video below.  Please be aware that GitHub requires repository owners to have two-factor authentication and so you will need to set this feature up as well.  The author uses Google Authenticator with good results.
 
 <p align="center">
   xxx embed centered youtube video xxx
