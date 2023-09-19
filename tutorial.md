@@ -11,7 +11,7 @@ A Python program using the <code>pandas</code> package is the target for develop
 
 # The Tutorial
 
-This tutorial is intended as a collaborative exercise and, so you will need at least two people.  
+This tutorial is intended as a collaborative exercise and, so you will need at least two people to complete it.  
 
 ## Establish GitHub Accounts
 
