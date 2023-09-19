@@ -26,6 +26,10 @@ xxx embed centered youtube video xxx
   - github.py
   - github_soln.py
   - DECENNIALPL2020.P1_data_with_overlays_2021-11-05T143124_mod.csv
+-  Communicate the repository URL to all teammates
+-  Give write permission for the repo to teammates by going to <code></code>Settings>Collaborators</code> on the GitHub web repo page and entering the GitHub IDs of teammates.
+
+## Accept Collaboration Invitation and Clone Repo
 
 
 
@@ -34,14 +38,6 @@ xxx embed centered youtube video xxx
 
 
 
-2.	One team member should 
-a.	Create a public repository named github_tut 
-b.	Upload these files to that repository, which can be found https://github.com/your_github_username/github_tut
-i.	github.py 
-ii.	github_soln.py
-iii.	DECENNIALPL2020.P1_data_with_overlays_2021-11-05T143124_mod.csv
-c.	Communicate the repository URL to the other teammates
-d.	Give write permission to the GitHub IDs of teammates by going to Settings>Collaborators on the GitHub web repo page.
 3.	Each of the other teammates should do the following:
 a.	Accept invitation (email) from repo owner
 b.	Go to owner’s repo page and create new branch
