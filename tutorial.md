@@ -1,6 +1,6 @@
 # Introduction
 
-This markdown document is a tutorial to help a team of developers get started with development via GitHub.  Step-by-step instructions are supplemented with videos and other media demonstrating the steps.  The videos are hosted on YouTube, and you will need to either (i) right-click and choose <code>Open Video in New Tab</code>, or (ii) click on the "back" arrow to get back to this markdown document.
+This markdown document is a tutorial to help a team of developers get started with development via GitHub.  Step-by-step instructions are supplemented with videos and other media demonstrating the steps.  The videos are hosted on YouTube, and you will need to either (i) right-click and choose <code>Open Video in New Tab</code> or (ii) click on the "back" arrow to get back to this markdown document.
 
 A Python program using the <code>pandas</code> package is the target for development in this tutorial, but the focus is on learning the development process in GitHub rather than learning to code with Python and <code>pandas</code>, and so a solution is provided for the code to permit this exercise to be appropriately focused.  
 
@@ -25,7 +25,7 @@ Any team member who does not have a GitHub account must establish one by going t
 
 Identify one team member who will do the following:
 
--  Create a repository, named <code>github_tut</code>, in which to conduct this tutorial following the steps taken in the video below.
+-  Create a repository, named <code>github_tut</code>, in which to conduct this tutorial following the steps taken in the video below.  Please be aware that GitHub requires two-factor authentication for repository owners and so you will need to set this feature up as well.  The author uses Google Authenticator with good results.
 
 <p align="center">
   xxx embed centered youtube video xxx
