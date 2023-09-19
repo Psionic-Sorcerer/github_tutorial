@@ -36,9 +36,10 @@ Identify one team member who will do the following:
   - github_soln.py
   - DECENNIALPL2020.P1_data_with_overlays_2021-11-05T143124_mod.csv
 -  Communicate the repository URL, <code>https://github.com/_your_github_username_/github_tut</code>, to all teammates
--  Give write permission for the repo to teammates by going to <code></code>Settings>Collaborators</code> on the GitHub web repo page and entering the GitHub IDs of teammates.
--  xxx
+-  Give write permission for the repo to teammates by going to <code>Settings>Collaborators</code> on the GitHub web repo page and entering the GitHub IDs of teammates.
 
+[![Create_GitHub_Repo](https://img.youtube.com/vi/H7hwKX5l9ug/0.jpg)](https://www.youtube.com/watch?v=H7hwKX5l9ug)
+   
 ## Accept Collaboration Invitation and Clone Repo
 
 Each teammate should do the following:
@@ -61,7 +62,7 @@ xxxxx
 
 ## Review Pull Requests and Merge Branches
 
-All team members should participate in a Zoom call where the team member who owns the repository reviews and approves the pull requests using these steps for the pul request from each team member.
+All team members should participate in a Zoom call where the team member who owns the repository reviews and approves the pull requests using these steps for the pull request from each team member.
 
 - Click on Pull requests in the menu at the top of the web repo page
 - xxx image
