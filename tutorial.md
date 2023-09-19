@@ -4,6 +4,10 @@ This markdown document is a tutorial to help a team of developers get started wi
 
 A Python program using the <code>pandas</code> package is the target for development in this tutorial, but the focus is on learning the development process in GitHub rather than learning to code with Python and <code>pandas</code>, and so a solution is provided for the code to permit this exercise to be appropriately focused.  
 
+# An Introduction to Collaborative Development
+
+xxxx embed Youtube video
+
 # The Tutorial
 
 This is intended as a collaborative exercise, and so you will need a team of at least two people for this tutorial.  
