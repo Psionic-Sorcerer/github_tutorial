@@ -15,7 +15,7 @@ This tutorial is intended as a collaborative exercise and, so you will need at l
 
 ## Establish GitHub Accounts
 
-Any team member who does not have a GitHub account must establish one by going to [https://github.com](https://github.com) and clicking on <code>Signup</code>
+Any team member who does not have a GitHub account must establish one by going to [https://github.com](https://github.com) and clicking on <code>Sign up</code>
 
 <p align="center">
 <img src="media/github_signup.jpg" width="600" />
