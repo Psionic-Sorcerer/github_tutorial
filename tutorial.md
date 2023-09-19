@@ -55,31 +55,23 @@ xxxxx
 
 ## Review Pull Requests and Merge Branches
 
+All team members should participate in a Zoom call where the team member who owns the repository reviews and approves the pull requests using these steps for the pul request from each team member.
+
+- Click on Pull requests in the menu at the top of the web repo page
+- xxx image
+-	Click on the pull request to see details
+-	xxx image
+-	Click on Files Changed to see revisions
+-	xxx image
+-	Click back to Conversation
+-	xxx image
+-	Click on Merge Pull Request
+-	xxx image
+-	Click on Confirm Merge
+-	xxx image
+-	Click on Delete Branch
+-	xxx image
 
 
-
-
-
-
-
-3.	Each of the other teammates should do the following:
-a.	
-b.	
-c.	
-d.	
-e.	
-f.	s  
-g.	
-h.	
-i.	
-4.	All team members should participate on a Zoom call where the team member who owns the repository reviews and approves the pull requests.
-a.	Click on Pull requests in the menu at the top of the web repo page
-b.	Click on the pull request to see details
-c.	Click on Files Changed to see revisions
-d.	Click back to Conversation
-e.	Click on Merge Pull Request   
-f.	Click on Confirm Merge   
-g.	Click on Delete Branch   
-h.	
 
 
