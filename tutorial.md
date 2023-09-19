@@ -15,7 +15,7 @@ This is intended as a collaborative exercise, and so you will need a team of at 
 
 ## Establish GitHub Accounts
 
-Any team member who does not have a GitHub account must establish one by going to [https://github.com](https://github.com)
+Any team member who does not have a GitHub account must establish one by going to [https://github.com](https://github.com) and clicking on <code>Signup</code>
 
 ![GitHub_Signup](media/github_signup.jpg)
 
