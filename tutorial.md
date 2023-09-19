@@ -21,7 +21,7 @@ Any team member who does not have a GitHub account must establish one by going t
 <img src="media/github_signup.jpg" width="600" />
 </p>
 
-## Create a GitHub Repository for Development
+## Create a GitHub Repository for this Tutorial
 
 Identify one team member who will do the following:
 
