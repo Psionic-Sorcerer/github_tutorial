@@ -7,8 +7,7 @@ A Python program using the <code>pandas</code> package is the target for develop
 # An Introduction to Collaborative Development
 
 <!-- [![git Introduction](https://img.youtube.com/vi/iSlNoD2qGiU/0.jpg)](https://youtu.be/iSlNoD2qGiU) -->
-[![git Introduction](http://img.youtube.com/vi/iSlNoD2qGiU/0.jpg)](http://www.youtube.com/watch?v=iSlNoD2qGiUE){:target="_blank" rel="noopener"}
-
+[![git Introduction](http://img.youtube.com/vi/iSlNoD2qGiU/0.jpg)](http://www.youtube.com/watch?v=iSlNoD2qGiUE)
 
 
 # The Tutorial
