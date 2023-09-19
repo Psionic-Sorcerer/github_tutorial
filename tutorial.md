@@ -72,6 +72,12 @@ All team members should participate in a Zoom call where the team member who own
 -	Click on Delete Branch
 -	xxx image
 
+# Conclusion
 
+This tutorial contains the fundamentals needed to get started with collaborative development on GitHub but further skills are needed to become more proficient.  The next steps that could be taken in that regard are the following:
+
+- Learning to set permissions for approving pull requests
+- Learning effective etiquette in making comments to document pull requests
+- Learning to manage pull requests when conflicts exist
 
 
