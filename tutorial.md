@@ -35,6 +35,26 @@ xxx embed centered youtube video xxx
 
 ## Accept Collaboration Invitation and Clone Repo
 
+Each teammate should do the following:
+
+- Accept the invitation from repo owner, which will be sent to the email address you specified when establishing your GitHub account.
+- Go to owner’s repo and create new branch.  Embed your GitHub username in the branch name so that you can identify your work.
+- xxxx Clone the repository onto your computer and choose the <code>Open with GitHub Desktop</code> option by clicking on the xxxxx button as demonstrated in the video below.  If you do not have the GitHub Desktop app, then you will be prompted to download and install it.
+-  xxx embed video
+-  In GitHub Desktop, navigate to the new branch you created
+-  xxx embed video
+-  Edit the code by completing one of the functions used to create a new column in the DataFrame programmed in the github.py file, and “un-comment” the corresponding statement used to create a new column in the DataFrame, that is, delete the pound sign
+-  xxx link to details about the code
+-  Test your code revision to ensure that it works
+-  In GitHub Desktop Commit the code change to the branch
+-  xxxx
+-  Then <code>Push Changes</code> to Origin (this changes the code in the Internet repo to reflect your additions)
+-  xxxxxx
+-  In GitHub Desktop, click on <code>Create Pull Request</code>
+xxxxx
+
+## Review Pull Requests and Merge Branches
+
 
 
 
@@ -43,16 +63,16 @@ xxx embed centered youtube video xxx
 
 
 3.	Each of the other teammates should do the following:
-a.	Accept invitation (email) from repo owner
-b.	Go to owner’s repo page and create new branch
-c.	Clone the repository onto their computer and Open with GitHub Desktop app
-d.	In GitHub Desktop navigate to the new branch you created
-e.	Edit the code by completing one of the functions used to create a new column in the DataFrame programmed in the github.py file, and “un-comment” the corresponding statement used to create a new column in the DataFrame, that is, delete the pound sign
-f.	Test the code revision to ensure that it works  
-g.	In GitHub Desktop Commit the code change to the branch
-h.	Then Push changes to Origin (repo on the Internet)
-i.	In GitHub Desktop, Create Pull Request
-4.	All team member should participate on a Zoom call where the team member who owns the repository reviews and approves the pull requests.
+a.	
+b.	
+c.	
+d.	
+e.	
+f.	s  
+g.	
+h.	
+i.	
+4.	All team members should participate on a Zoom call where the team member who owns the repository reviews and approves the pull requests.
 a.	Click on Pull requests in the menu at the top of the web repo page
 b.	Click on the pull request to see details
 c.	Click on Files Changed to see revisions
