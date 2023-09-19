@@ -23,7 +23,7 @@ Any team member who does not have a GitHub account must establish one by going t
 
 ## Create a GitHub Repository for Development
 
-Of the team members, identify one team member who will do the following:
+Identify one team member who will do the following:
 
 -  Create a repository, named <code>github_tut</code>, in which to conduct this tutorial following the steps taken in the video below.
 
