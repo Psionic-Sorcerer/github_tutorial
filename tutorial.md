@@ -65,19 +65,19 @@ Any team member who does not have a GitHub account must establish one by going t
 - Sign in with your GitHub account credentials
 
 <p align="center">
-<img src="media/github_desktop/6desktop_signin.jpg" width="200" />
+<img src="media/github_desktop/6desktop_signin.jpg" width="300" />
 </p>
 
 - If you have two-factor authentication enabled, then you will need to enter a passcode now.
 
 <p align="center">
-<img src="media/github_desktop/7desktop_2_factor.jpg" width="200" />
+<img src="media/github_desktop/7desktop_2_factor.jpg" width="300" />
 </p>
 
 - Configuration: enter your GitHub username and email address that you used to establish your account.
 
 <p align="center">
-<img src="media/github_desktop/8desktop_config.jpg" width="300" />
+<img src="media/github_desktop/8desktop_config.jpg" width="400" />
 </p>
 
 - Congratulations, you have finished the installation.  This is the GitHub Desktop app welcome screen.  This is the only time you will see this screen format and, in the future, you will use the menu to perform all the tasks whose links appear here.  You can just leave this window open.
