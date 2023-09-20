@@ -152,27 +152,22 @@ The video below illustrates all the steps in this section.  Feel free to watch t
 
 ## Review Pull Requests and Merge Branches
 
-All team members should participate in a Zoom call where the team member who owns the repository reviews and approves the pull requests using these steps for the pull request from each team member.
+All team members should participate in a Zoom call where the team member who owns the repository reviews and approves the pull requests using these steps for the pull request from each team member.  the video below illustrates all the steps shown below.
 
-- Click on Pull requests in the menu at the top of the web repo page
-- xxx image
--	Click on the pull request to see details
--	xxx image
--	Click on Files Changed to see revisions
--	xxx image
--	Click back to Conversation
--	xxx image
--	Click on Merge Pull Request
--	xxx image
--	Click on Confirm Merge
--	xxx image
--	Click on Delete Branch
--	xxx image
+[![Create_GitHub_Repo](https://img.youtube.com/vi/mecvAxF2i6I/0.jpg)](https://www.youtube.com/watch?v=mecvAxF2i6I)
+
+- Click on <code>Pull Requests</code> in the menu at the top of the web repo page
+-	Click on a specific pull request
+-	Click on <code>Merge Pull Request</code>
+-	Click on <code>Confirm Merge</code>
+-	Click on <code>Delete Branch</code>
+-	Leave a <code>comment</code>
 
 # Conclusion
 
 This tutorial contains the fundamentals needed to get started with collaborative development on GitHub but further skills are needed to become more proficient.  The next steps that could be taken in that regard are the following:
 
+- Reverting to earlier versions of the repo
 - Learning to set permissions for approving pull requests
 - Learning effective etiquette in making comments to document pull requests
 - Learning to manage pull requests when conflicts exist
