@@ -15,7 +15,7 @@ A Python program using the <code>pandas</code> package is the target for develop
 
 This tutorial is intended as a collaborative exercise and, so you will need at least two people to complete it.  
 
-## Establish GitHub Accounts
+## Establish a GitHub Account
 
 Any team member who does not have a GitHub account must establish one by going to [https://github.com](https://github.com) and clicking on <code>Sign up</code>
 
@@ -23,22 +23,7 @@ Any team member who does not have a GitHub account must establish one by going t
 <img src="media/github_signup.jpg" width="600" />
 </p>
 
-## Create a GitHub Repository for this Tutorial
 
-Identify one team member who will do the following:
-
--  Create a repository, named <code>github_tut</code>, in which to conduct this tutorial following the steps taken in the video below.  Please be aware that GitHub requires repository owners to have two-factor authentication and so you will need to set this feature up as well.  The author uses Google Authenticator with good results.
-
-[![Create_GitHub_Repo](https://img.youtube.com/vi/2GUFvuEPXjo/0.jpg)](https://www.youtube.com/watch?v=2GUFvuEPXjo)
-
-- Get these files from the <code>code</code> folder of this repository (repo) and upload them to the <code>github_tut</code> repo that was just created at <code>https://github.com/_your_github_username_/github_tut</code>.
-  - github.py
-  - github_soln.py
-  - DECENNIALPL2020.P1_data_with_overlays_2021-11-05T143124_mod.csv
--  Communicate the repository URL, <code>https://github.com/_your_github_username_/github_tut</code>, to all teammates
--  Give write permission for the repo to teammates by going to <code>Settings>Collaborators</code> on the GitHub web repo page and entering the GitHub IDs of teammates as described in the video below.
-
-[![Create_GitHub_Repo](https://img.youtube.com/vi/H7hwKX5l9ug/0.jpg)](https://www.youtube.com/watch?v=H7hwKX5l9ug)
 
 ## Install GitHub Desktop Application
 
@@ -95,13 +80,34 @@ Identify one team member who will do the following:
 <img src="media/github_desktop/8desktop_config.jpg" width="400" />
 </p>
 
-- Congratulations, you have finished the installation.  This is the GitHub Desktop app with a welcome screen.  You can just leave this window open.
+- Congratulations, you have finished the installation.  This is the GitHub Desktop app welcome screen.  This is the only time you will see this screen format and, in the future, you will use the menu to perform all the tasks whose links appear here.  You can just leave this window open.
 
 <p align="center">
 <img src="media/github_desktop/9desktop_finish.jpg" width="400" />
 </p>
 
 
+
+
+
+
+
+## Create a GitHub Repository for this Tutorial
+
+Identify one team member who will do the following:
+
+-  Create a repository, named <code>github_tut</code>, in which to conduct this tutorial following the steps taken in the video below.  Please be aware that GitHub requires repository owners to have two-factor authentication and so you will need to set this feature up as well.  The author uses Google Authenticator with good results.
+
+[![Create_GitHub_Repo](https://img.youtube.com/vi/2GUFvuEPXjo/0.jpg)](https://www.youtube.com/watch?v=2GUFvuEPXjo)
+
+- Get these files from the <code>code</code> folder of this repository (repo) and upload them to the <code>github_tut</code> repo that was just created at <code>https://github.com/_your_github_username_/github_tut</code>.
+  - github.py
+  - github_soln.py
+  - DECENNIALPL2020.P1_data_with_overlays_2021-11-05T143124_mod.csv
+-  Communicate the repository URL, <code>https://github.com/_your_github_username_/github_tut</code>, to all teammates
+-  Give write permission for the repo to teammates by going to <code>Settings>Collaborators</code> on the GitHub web repo page and entering the GitHub IDs of teammates as described in the video below.
+
+[![Create_GitHub_Repo](https://img.youtube.com/vi/H7hwKX5l9ug/0.jpg)](https://www.youtube.com/watch?v=H7hwKX5l9ug)
 
 
 
