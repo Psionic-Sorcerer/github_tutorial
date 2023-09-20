@@ -122,11 +122,11 @@ Each teammate should do the following:
 
 - Go to owner’s repo URL and create a new branch.  Embed your GitHub username in the branch name so that you can identify your work.
 
-[![Create_GitHub_Repo](https://img.youtube.com/vi/xxx/0.jpg)](https://www.youtube.com/watch?v=xxx)
+[![Create_GitHub_Repo](https://img.youtube.com/vi/ECcCywKBXsY/0.jpg)](https://www.youtube.com/watch?v=ECcCywKBXsY)
 
 - Clone the repository onto your computer using the <code>Open with GitHub Desktop</code> optionafter clicking on the <code>Code</code> button as demonstrated in the video below.  Finally, navigate to the new branch you created in the GitHub Desktop app.
 
-[![Create_GitHub_Repo](https://img.youtube.com/vi/xxx/0.jpg)](https://www.youtube.com/watch?v=xxx)
+[![Create_GitHub_Repo](https://img.youtube.com/vi/ZUCcyZ4acC8/0.jpg)](https://www.youtube.com/watch?v=ZUCcyZ4acC8)
 
 -  Edit the code by completing one of the functions used to create a new column in the DataFrame programmed in the github.py file, and “un-comment” the corresponding statement used to create a new column in the DataFrame, that is, delete the pound sign
 -  xxx link to details about the code
