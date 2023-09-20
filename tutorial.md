@@ -52,6 +52,59 @@ Identify one team member who will do the following:
 <img src="media/github_desktop/1desktop_download.jpg" width="600" />
 </p>
 
+- Navigate to the download folder
+
+<p align="center">
+<img src="media/github_desktop/2desktop_show_in_folder.jpg" width="600" />
+</p>
+
+- Double-click to execute the installation file
+
+<p align="center">
+<img src="media/github_desktop/3desktop_exe_folder.jpg" width="600" />
+</p>
+
+
+- This image will appear during installation
+
+<p align="center">
+<img src="media/github_desktop/4desktop_installing.jpg" width="600" />
+</p>
+
+- This is the welcome screen.  Click where indicated.
+
+<p align="center">
+<img src="media/github_desktop/5desktop_welcome.jpg" width="600" />
+</p>
+
+- Sign in with your GitHub account credentials
+
+<p align="center">
+<img src="media/github_desktop/6desktop_signin.jpg" width="600" />
+</p>
+
+- If you have two-factor authentication enabled you will need to enter a passcode now.
+
+<p align="center">
+<img src="media/github_desktop/7desktop_2_factor.jpg" width="600" />
+</p>
+
+- configuration
+
+<p align="center">
+<img src="media/github_desktop/8desktop_config.jpg" width="600" />
+</p>
+
+- Congratulations, you have finished the installation.  This is the GitHub Desktop app with a welcome screen.  You can just leave this window open.
+
+<p align="center">
+<img src="media/github_desktop/9desktop_finish.jpg" width="600" />
+</p>
+
+
+
+
+
    
 ## Accept Collaboration Invitation and Clone Repo
 
