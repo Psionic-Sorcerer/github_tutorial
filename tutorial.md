@@ -49,7 +49,7 @@ Identify one team member who will do the following:
 - Click where indicated to download the executable installation file as shown below.
 
 <p align="center">
-<img src="media/github_desktop/desktop_download.jpg" width="600" />
+<img src="media/github_desktop/1desktop_download.jpg" width="600" />
 </p>
 
    
