@@ -39,6 +39,14 @@ Identify one team member who will do the following:
 -  Give write permission for the repo to teammates by going to <code>Settings>Collaborators</code> on the GitHub web repo page and entering the GitHub IDs of teammates as described in the video below.
 
 [![Create_GitHub_Repo](https://img.youtube.com/vi/H7hwKX5l9ug/0.jpg)](https://www.youtube.com/watch?v=H7hwKX5l9ug)
+
+## Install GitHub Desktop Application
+
+Download and install the app from this URL:
+
+<a href="https://desktop.github.com/" target="_blank">https://desktop.github.com/</a>
+
+
    
 ## Accept Collaboration Invitation and Clone Repo
 
