@@ -49,41 +49,41 @@ Identify one team member who will do the following:
 - Click where indicated to download the executable installation file as shown below.
 
 <p align="center">
-<img src="media/github_desktop/1desktop_download.jpg" width="600" />
+<img src="media/github_desktop/1desktop_download.jpg" width="400" />
 </p>
 
 - Navigate to the download folder
 
 <p align="center">
-<img src="media/github_desktop/2desktop_show_in_folder.jpg" width="600" />
+<img src="media/github_desktop/2desktop_show_in_folder.jpg" width="400" />
 </p>
 
 - Double-click to execute the installation file
 
 <p align="center">
-<img src="media/github_desktop/3desktop_exe_folder.jpg" width="600" />
+<img src="media/github_desktop/3desktop_exe_folder.jpg" width="400" />
 </p>
 
 
 - This image will appear during installation
 
 <p align="center">
-<img src="media/github_desktop/4desktop_installing.jpg" width="600" />
+<img src="media/github_desktop/4desktop_installing.jpg" width="200" />
 </p>
 
 - This is the welcome screen.  Click where indicated.
 
 <p align="center">
-<img src="media/github_desktop/5desktop_welcome.jpg" width="600" />
+<img src="media/github_desktop/5desktop_welcome.jpg" width="400" />
 </p>
 
 - Sign in with your GitHub account credentials
 
 <p align="center">
-<img src="media/github_desktop/6desktop_signin.jpg" width="600" />
+<img src="media/github_desktop/6desktop_signin.jpg" width="400" />
 </p>
 
-- If you have two-factor authentication enabled you will need to enter a passcode now.
+- If you have two-factor authentication enabled, then you will need to enter a passcode now.
 
 <p align="center">
 <img src="media/github_desktop/7desktop_2_factor.jpg" width="600" />
