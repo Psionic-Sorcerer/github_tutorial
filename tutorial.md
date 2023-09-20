@@ -86,19 +86,19 @@ Identify one team member who will do the following:
 - If you have two-factor authentication enabled, then you will need to enter a passcode now.
 
 <p align="center">
-<img src="media/github_desktop/7desktop_2_factor.jpg" width="600" />
+<img src="media/github_desktop/7desktop_2_factor.jpg" width="400" />
 </p>
 
 - configuration
 
 <p align="center">
-<img src="media/github_desktop/8desktop_config.jpg" width="600" />
+<img src="media/github_desktop/8desktop_config.jpg" width="400" />
 </p>
 
 - Congratulations, you have finished the installation.  This is the GitHub Desktop app with a welcome screen.  You can just leave this window open.
 
 <p align="center">
-<img src="media/github_desktop/9desktop_finish.jpg" width="600" />
+<img src="media/github_desktop/9desktop_finish.jpg" width="400" />
 </p>
 
 
