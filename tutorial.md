@@ -42,10 +42,15 @@ Identify one team member who will do the following:
 
 ## Install GitHub Desktop Application
 
-Download and install the app from this URL:
+- Download and install the app from this URL:
 
 <a href="https://desktop.github.com/" target="_blank">https://desktop.github.com/</a>
 
+- Click where indicated to download the executable installation file as shown below.
+
+<p align="center">
+<img src="media/github_desktop/desktop_download.jpg" width="600" />
+</p>
 
    
 ## Accept Collaboration Invitation and Clone Repo
