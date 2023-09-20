@@ -136,10 +136,11 @@ As was mentioned, creating a branch essentially creates a redundant copy of the 
 
 ## Edit the Python Code and Push Your changes to the Internet Repo
 
--  In __the branch that you created__, edit the <code>github.py</code> code with Spyder by completing one of the functions that is used with the <code>.apply()</code> method to create a new column in the DataFrame and also “un-comment” the corresponding statement (delete the pound sign) with the <code>.apply()</code> method that uses the function that you edited.
+-  In __the branch that you created__, edit the <code>github.py</code> code with Spyder by completing one of the functions that are used with the <code>DataFrame.apply()</code> statements to create a new column in the <code>DataFrame</code> named <code>df</code> and also “un-comment” the corresponding statement (delete the pound sign) with the <code>.apply()</code> statement that uses the function that you edited.
   -  If you want more details about the code go here: [code comments](coding.md)
--  Test your code revision in Spyder to ensure that it works
--  In GitHub Desktop Commit the code change to the branch
+  -  If you want to focus on the GitHub process and not spend the time to figure out the function and the <code>DataFrame.apply()</code> statements, then you may use the code in the <code>github_soln.py</code> file to make your revisions quickly.
+-  Save your changes in Spyder and test your revised code in Spyder to ensure that it works
+-  In GitHub Desktop <code>Commit</code> the code change to the branch
 
 <p align="center">
 <img src="media/github_desktop/xxx.jpg" width="400" />
