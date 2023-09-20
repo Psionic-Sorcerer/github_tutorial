@@ -114,7 +114,7 @@ Each teammate should do the following:
 
 [![Create_GitHub_Repo](https://img.youtube.com/vi/W3tYHaor4Do/0.jpg)](https://www.youtube.com/watch?v=W3tYHaor4Do)
 
-- Go to owner’s repo and create new branch.  Embed your GitHub username in the branch name so that you can identify your work.
+- Go to owner’s repo URL and create new branch.  Embed your GitHub username in the branch name so that you can identify your work.
 - xxxx Clone the repository onto your computer and choose the <code>Open with GitHub Desktop</code> option by clicking on the xxxxx button as demonstrated in the video below.  If you do not have the GitHub Desktop app, then you will be prompted to download and install it.
 -  xxx embed video
 -  In GitHub Desktop, navigate to the new branch you created
