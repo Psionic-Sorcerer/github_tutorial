@@ -136,29 +136,17 @@ As was mentioned, creating a branch essentially creates a redundant copy of the 
 
 ## Edit the Python Code and Push Your changes to the Internet Repo
 
+The video below illustrates all the steps in this section.  Feel free to watch the video, stopping it at each step to perform the steps along with the video.
+
+[![Create_GitHub_Repo](https://img.youtube.com/vi/ALlSdeb5_2w/0.jpg)](https://www.youtube.com/watch?v=ALlSdeb5_2w)
+
 -  In __the branch that you created__, edit the <code>github.py</code> file with Spyder by completing one of the functions that are used with the <code>DataFrame.apply()</code> statements to create a new column in the <code>DataFrame</code> named <code>df</code> and also “un-comment” the corresponding <code>DataFrame.apply()</code>statement (delete the pound sign) that uses the function that you edited.  To find the <code>github.py</code> file you will need to pay attention to the folder where GitHub Desktop has stored your cloned repos.
   -  If you want more details about the code go here: [code comments](coding.md)
   -  If you want to focus on the GitHub process and not spend the time to figure out the function and the <code>DataFrame.apply()</code> statements, then you may use the code in the <code>github_soln.py</code> file to make your revisions quickly.
 -  Save your changes in Spyder and test your revised code in Spyder to ensure that it works
 -  In GitHub Desktop <code>Commit</code> the code change to the branch
-
-<p align="center">
-<img src="media/github_desktop/xxx.jpg" width="400" />
-</p>
-
-
--  Then <code>Push Changes</code> to Origin (this changes the code in the Internet repo to reflect your additions)
-
-<p align="center">
-<img src="media/github_desktop/xxx.jpg" width="400" />
-</p>
-
-
--  In GitHub Desktop, click on <code>Create Pull Request</code>
-
-<p align="center">
-<img src="media/github_desktop/xxx.jpg" width="400" />
-</p>
+-  Then <code>Push to Origin</code> (this changes the code in the Internet repo to reflect your additions)
+-  In GitHub Desktop, click on <code>Create Pull Request</code>.  Subsequently, do the same in the browser window.
 
 
 
