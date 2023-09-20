@@ -130,14 +130,14 @@ Each teammate should do the following:
 
 ## A Little Bit about How Branches Work
 
-As was mentioned, creating a branch essentially creates a redundant copy of the repo code from the <code>main</code> branch that we can safely edit.  However, there are never more than one file for, in our case, the <code>github.py</code>.  Instead, git keeps a record of the differences between the <code>github.py</code> file in the different branches, and when we change branches, git quickly revises the file for the branch that we choose in the GitHub Desktop app.  this is demonstrated in teh video below.
+As was mentioned, creating a branch essentially creates a redundant copy of the repo code from the <code>main</code> branch that we can safely edit.  However, there is never more than one file for, in our case, the <code>github.py</code>.  Instead, git keeps a record of the differences between the <code>github.py</code> file in the different branches, and when we change branches, git quickly revises the file for the branch that we choose in the GitHub Desktop app.  This is demonstrated in the video below.
 
 [![Create_GitHub_Repo](https://img.youtube.com/vi/_LQf92s8loM/0.jpg)](https://www.youtube.com/watch?v=_LQf92s8loM)
 
 ## Edit the Python Code and Push Your changes to the Internet Repo
 
 -  In __the branch that you created__, edit the <code>github.py</code> code with Spyder by completing one of the functions that is used with the <code>.apply()</code> method to create a new column in the DataFrame and also “un-comment” the corresponding statement (delete the pound sign) with the <code>.apply()</code> method that uses the function that you edited.
-  -  If you want more details about the code go here: [code_folder] (/code/readme.md)
+  -  If you want more details about the code go here: [code_folder] (code/readme.md)
 -  Test your code revision in Spyder to ensure that it works
 -  In GitHub Desktop Commit the code change to the branch
 -  xxxx
