@@ -120,13 +120,22 @@ Each teammate should do the following:
 
 [![Create_GitHub_Repo](https://img.youtube.com/vi/W3tYHaor4Do/0.jpg)](https://www.youtube.com/watch?v=W3tYHaor4Do)
 
-- Go to owner’s repo URL and create a new branch.  Embed your GitHub username in the branch name so that you can identify your work.
+- Go to the owner’s repo URL and create a new branch.  Embed your GitHub username in the branch name so that you can identify your work.
 
 [![Create_GitHub_Repo](https://img.youtube.com/vi/ECcCywKBXsY/0.jpg)](https://www.youtube.com/watch?v=ECcCywKBXsY)
 
 - Clone the repository onto your computer using the <code>Open with GitHub Desktop</code> optionafter clicking on the <code>Code</code> button as demonstrated in the video below.  Finally, navigate to the new branch you created in the GitHub Desktop app.
 
 [![Create_GitHub_Repo](https://img.youtube.com/vi/ZUCcyZ4acC8/0.jpg)](https://www.youtube.com/watch?v=ZUCcyZ4acC8)
+
+## A Little Bit about How Branches Work
+
+As was mentioned, creating a branch essentially creates a redundant copy of the repo code from the <code>main</code> branch that we can safely edit.  However, there are never more than one file for, in our case, the <code>github.py</code>.  Instead, git keeps a record of the differences between the <code>github.py</code> file in the different branches, and when we change branches, git quickly revises the file for the branch that we choose in the GitHub Desktop app.  this is demonstrated in teh video below.
+
+[![Create_GitHub_Repo](https://img.youtube.com/vi/xxx/0.jpg)](https://www.youtube.com/watch?v=xxx)
+
+
+## Edit the Python Code and Push Your changes to the Internet Repo
 
 -  Edit the code by completing one of the functions used to create a new column in the DataFrame programmed in the github.py file, and “un-comment” the corresponding statement used to create a new column in the DataFrame, that is, delete the pound sign
 -  xxx link to details about the code
