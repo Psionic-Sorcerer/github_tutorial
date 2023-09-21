@@ -130,7 +130,7 @@ Each teammate should do the following:
 
 ## A Little Bit About How Branches Work
 
-As was mentioned, creating a branch essentially creates a redundant copy of the repo code from the <code>main</code> branch that we can safely edit.  However, there is never more than one file for, in our case, the <code>github.py</code>.  Instead, git keeps a record of the differences between the <code>github.py</code> file in the different branches, and when we change branches, git quickly revises the file for the branch that we choose in the GitHub Desktop app.  This is demonstrated in the video below.
+As was mentioned, creating a branch essentially creates a redundant copy of the repo code from the <code>main</code> branch that we can safely edit.  However, there is never more than one <code>github.py</code> file.  Instead, git keeps a record of the differences between the <code>github.py</code> file in the different branches, and when we change branches, git quickly revises the file for the branch that we choose in the GitHub Desktop app.  This is demonstrated in the video below.
 
 [![Create_GitHub_Repo](https://img.youtube.com/vi/_LQf92s8loM/0.jpg)](https://www.youtube.com/watch?v=_LQf92s8loM)
 
