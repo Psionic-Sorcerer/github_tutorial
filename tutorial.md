@@ -124,7 +124,7 @@ Each teammate should do the following:
 
 [![Create_GitHub_Repo](https://img.youtube.com/vi/ECcCywKBXsY/0.jpg)](https://www.youtube.com/watch?v=ECcCywKBXsY)
 
-- Clone the repository onto your computer using the <code>Open with GitHub Desktop</code> optionafter clicking on the <code>Code</code> button as demonstrated in the video below.  Finally, navigate to the new branch you created in the GitHub Desktop app.
+- Clone the repository onto your computer using the <code>Open with GitHub Desktop</code> option after clicking on the <code>Code</code> button as demonstrated in the video below.  Finally, navigate to the new branch you created in the GitHub Desktop app.
 
 [![Create_GitHub_Repo](https://img.youtube.com/vi/ZUCcyZ4acC8/0.jpg)](https://www.youtube.com/watch?v=ZUCcyZ4acC8)
 
