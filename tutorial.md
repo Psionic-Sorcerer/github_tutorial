@@ -152,7 +152,7 @@ The video below illustrates all the steps in this section.  Feel free to watch t
 
 ## Review Pull Requests and Merge Branches
 
-All team members should participate in a Zoom call where the team member who owns the repository reviews and approves the pull requests using these steps for the pull request from each team member.  the video below illustrates all the steps shown below.
+All team members should participate in a Zoom call where the team member who owns the repository reviews and approves the pull requests using these steps for the pull request from each team member.  The video below illustrates all the steps outlined in the subsequent bullet points.
 
 [![Create_GitHub_Repo](https://img.youtube.com/vi/mecvAxF2i6I/0.jpg)](https://www.youtube.com/watch?v=mecvAxF2i6I)
 
