@@ -165,7 +165,7 @@ All team members should participate in a Zoom call where the team member who own
 
 # Conclusion
 
-This tutorial contains the fundamentals needed to get started with collaborative development on GitHub but further skills are needed to become more proficient.  The next steps that could be taken in that regard are the following:
+This tutorial contains the fundamentals needed to get started with collaborative development on GitHub, but further skills are needed to become more proficient.  The next steps that could be taken in that regard incldue the following:
 
 - Reverting to earlier versions of the repo
 - Learning to set permissions for approving pull requests
