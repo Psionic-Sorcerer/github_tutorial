@@ -118,29 +118,29 @@ Each teammate should do the following:
 
 - Accept the invitation from repo owner, which will be sent to the email address you specified when establishing your GitHub account as demonstrated in the video below.
 
-[![Create_GitHub_Repo](https://img.youtube.com/vi/W3tYHaor4Do/0.jpg)](https://www.youtube.com/watch?v=W3tYHaor4Do)
+[![Accept Collaboration Invitation](https://img.youtube.com/vi/W3tYHaor4Do/0.jpg)](https://www.youtube.com/watch?v=W3tYHaor4Do)
 
 - Go to the owner’s repo URL and create a new branch.  Embed your GitHub username in the branch name so that you can identify your work.
 
-[![Create_GitHub_Repo](https://img.youtube.com/vi/6J9y5JasEZ0/0.jpg)](https://www.youtube.com/watch?v=6J9y5JasEZ0)
+[![Create Branch](https://img.youtube.com/vi/6J9y5JasEZ0/0.jpg)](https://www.youtube.com/watch?v=6J9y5JasEZ0)
 
 - Clone the repository onto your computer using the <code>Open with GitHub Desktop</code> option after clicking on the <code>Code</code> button as demonstrated in the video below.  Finally, navigate to the new branch you created in the GitHub Desktop app.
 
-[![Create_GitHub_Repo](https://img.youtube.com/vi/M3X8naiZAyQ/0.jpg)](https://www.youtube.com/watch?v=M3X8naiZAyQ)
+[![Clone_Repo](https://img.youtube.com/vi/M3X8naiZAyQ/0.jpg)](https://www.youtube.com/watch?v=M3X8naiZAyQ)
 
 ## A Little Bit About How Branches Work
 
 As was mentioned, creating a branch essentially creates a copy of the repo code from the <code>main</code> branch that we can safely edit.  However, there is never more than one <code>github.py</code> file.  Instead, git keeps a record of the differences between the <code>github.py</code> file in the different branches, and when we change branches either in the Internet repo or on our local machines with the GitHub Desktop app, git quickly revises the file for the selected branch, respectively, in our browser or on our local machine.  This is demonstrated in the video below.
 
-[![Create_GitHub_Repo](https://img.youtube.com/vi/_LQf92s8loM/0.jpg)](https://www.youtube.com/watch?v=_LQf92s8loM)
+[![About Branches](https://img.youtube.com/vi/_LQf92s8loM/0.jpg)](https://www.youtube.com/watch?v=_LQf92s8loM)
 
 ## Edit the Python Code and Push Your changes to the Internet Repo
 
 The video below illustrates all the steps in this section.  Feel free to watch the video, stopping it at each step to perform the steps along with the video.
 
-[![Create_GitHub_Repo](https://img.youtube.com/vi/ALlSdeb5_2w/0.jpg)](https://www.youtube.com/watch?v=ALlSdeb5_2w)
+[![Edit Code](https://img.youtube.com/vi/ALlSdeb5_2w/0.jpg)](https://www.youtube.com/watch?v=ALlSdeb5_2w)
 
--  In __the branch that you created__, edit the <code>github.py</code> file with Spyder by completing one of the functions that are used with the <code>DataFrame.apply()</code> statements to create a new column in the <code>DataFrame</code> named <code>df</code> and also “un-comment” the corresponding <code>DataFrame.apply()</code>statement (delete the pound sign) that uses the function that you edited.  To find the <code>github.py</code> file you will need to pay attention to the folder where GitHub Desktop has stored your cloned repos.
+-  In __the branch that you created__, edit the <code>github.py</code> file with Spyder by completing one of the functions that are used with the <code>DataFrame.apply()</code> statements to create a new column in the <code>DataFrame</code> named <code>df</code> and also “un-comment” the corresponding <code>DataFrame.apply()</code>statement (delete the pound sign) that uses the function that you edited.  Each team member should edit a different function in <code>github.py</code>.  To find the <code>github.py</code> file you will need to pay attention to the folder where GitHub Desktop has stored your cloned repos.
   -  If you want more details about the code go here: [code comments](coding.md)
   -  If you want to focus on the GitHub process and not spend the time to figure out the function and the <code>DataFrame.apply()</code> statements, then you may use the code in the <code>github_soln.py</code> file to make your revisions quickly.
 -  Save your changes in Spyder and test your revised code in Spyder to ensure that it works
