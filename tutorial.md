@@ -104,7 +104,7 @@ Identify one team member who will do the following:
 
 -  Create a repository, named <code>github_tut</code>, in which to conduct this tutorial following the steps taken in the video below.  Please be aware that GitHub requires repository owners to have two-factor authentication and so you will need to set this feature up as well.  The author uses Google Authenticator with good results.
 
-[![Create_GitHub_Repo](https://img.youtube.com/vi/2GUFvuEPXjo/0.jpg)](https://www.youtube.com/watch?v=2GUFvuEPXjo)
+[![Create_GitHub_Repo](https://img.youtube.com/vi/GyfoXBr0rtY/0.jpg)](https://www.youtube.com/watch?v=GyfoXBr0rtY)
 
 - Get these files from the <code>code</code> folder of this repository (repo) and upload them to the <code>github_tut</code> repo that was just created at <code>https://github.com/_your_github_username_/github_tut</code>.  The details of these steps are illustrated in the video below.
   - github.py
