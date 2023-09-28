@@ -23,7 +23,7 @@ Any team member who does not have a GitHub account must establish one by going t
 <img src="media/github_signup.jpg" width="600" />
 </p>
 
-- As you create your account, please be sure to select the Collaborative Development option shown below
+- As you create your account, please be sure to select the <code>Collaborative coding</code> option shown below
 
 <p align="center">
 <img src="media/signin_collab.jpg" width="600" />
