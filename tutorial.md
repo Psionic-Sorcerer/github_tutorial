@@ -133,7 +133,7 @@ Each teammate should do the following:
 
 - Clone the repository onto your computer using the <code>Open with GitHub Desktop</code> option after clicking on the <code>Code</code> button as demonstrated in the video below.  Finally, navigate to the new branch you created in the GitHub Desktop app.
 
-[![Clone_Repo](https://img.youtube.com/vi/M3X8naiZAyQ/0.jpg)](https://www.youtube.com/watch?v=M3X8naiZAyQ)
+[![Clone_Repo](https://img.youtube.com/vi/T_wsPS8ZK6Q/0.jpg)](https://www.youtube.com/watch?v=T_wsPS8ZK6Q)
 
 ## A Little Bit About How Branches Work
 
