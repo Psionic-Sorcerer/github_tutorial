@@ -104,7 +104,7 @@ Identify one team member who will do the following:
   - github.py
   - github_soln.py
   - DECENNIALPL2020.P1_data_with_overlays_2021-11-05T143124_mod.csv
-[![Put Files in_Repo](https://img.youtube.com/vi/xxx/0.jpg)](https://www.youtube.com/watch?v=xxx)
+[![Put Files in_Repo](https://img.youtube.com/vi/aeYiTLUKr-E/0.jpg)](https://www.youtube.com/watch?v=aeYiTLUKr-E)
 -    Communicate the repository URL, <code>https://github.com/_your_github_username_/github_tut</code>, to all teammates
 -  Give write permission for the repo to teammates by going to <code>Settings>Collaborators</code> on the GitHub web repo page and entering the GitHub IDs of teammates as described in the video below.
 
@@ -135,7 +135,7 @@ As was mentioned, creating a branch essentially creates a copy of the repo code 
 
 [![About Branches](https://img.youtube.com/vi/_LQf92s8loM/0.jpg)](https://www.youtube.com/watch?v=_LQf92s8loM)
 
-## Edit the Python Code and Push Your changes to the Internet Repo
+## Edit the Python Code and Push Your Changes to the Internet Repo
 
 The video below illustrates all the steps in this section.  Feel free to watch the video, stopping it at each step to perform the steps along with the video.
 
